@@ -1,0 +1,16 @@
+D:\C#\UI design\Dinamic\DragAndDropApp\DragAndDropApp\bin\Debug\DragAndDropApp.exe.config
+D:\C#\UI design\Dinamic\DragAndDropApp\DragAndDropApp\bin\Debug\DragAndDropApp.exe
+D:\C#\UI design\Dinamic\DragAndDropApp\DragAndDropApp\bin\Debug\DragAndDropApp.pdb
+D:\C#\UI design\Dinamic\DragAndDropApp\DragAndDropApp\obj\Debug\DragAndDropApp.csprojAssemblyReference.cache
+D:\C#\UI design\Dinamic\DragAndDropApp\DragAndDropApp\obj\Debug\DragAndDropApp.Properties.Resources.resources
+D:\C#\UI design\Dinamic\DragAndDropApp\DragAndDropApp\obj\Debug\DragAndDropApp.csproj.GenerateResource.cache
+D:\C#\UI design\Dinamic\DragAndDropApp\DragAndDropApp\obj\Debug\DragAndDropApp.exe
+D:\C#\UI design\Dinamic\DragAndDropApp\DragAndDropApp\obj\Debug\DragAndDropApp.pdb
+D:\C#\UIdesign\Dinamic\DragAndDropApp\DragAndDropApp\bin\Debug\DragAndDropApp.exe.config
+D:\C#\UIdesign\Dinamic\DragAndDropApp\DragAndDropApp\bin\Debug\DragAndDropApp.exe
+D:\C#\UIdesign\Dinamic\DragAndDropApp\DragAndDropApp\bin\Debug\DragAndDropApp.pdb
+D:\C#\UIdesign\Dinamic\DragAndDropApp\DragAndDropApp\obj\Debug\DragAndDropApp.csprojAssemblyReference.cache
+D:\C#\UIdesign\Dinamic\DragAndDropApp\DragAndDropApp\obj\Debug\DragAndDropApp.Properties.Resources.resources
+D:\C#\UIdesign\Dinamic\DragAndDropApp\DragAndDropApp\obj\Debug\DragAndDropApp.csproj.GenerateResource.cache
+D:\C#\UIdesign\Dinamic\DragAndDropApp\DragAndDropApp\obj\Debug\DragAndDropApp.exe
+D:\C#\UIdesign\Dinamic\DragAndDropApp\DragAndDropApp\obj\Debug\DragAndDropApp.pdb
